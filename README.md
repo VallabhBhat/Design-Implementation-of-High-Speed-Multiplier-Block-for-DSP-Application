@@ -1,2 +1,4 @@
 # Design-Implementation-of-High-Speed-Multiplier-Block-for-DSP-Application
-High-speed multiplier block with reduced delay and improved power.
+This project aimed to design and develop a high-speed multiplier for Digital Signal Processing (DSP) applications. The study began by understanding the basic process of multiplication and the importance of signed multiplication in DSP. Various multiplier architectures were compared, and the Bough-Wooley multiplier architecture was identified as the most suitable choice for the targeted application. The architecture was analyzed on an FPGA level, and computational results were obtained. Addition methods for the Bough-Wooley multiplier architecture were explored, and it was discovered that the propagate and generate based approach yielded the best results for optimized resource usage and high speed. The designed architecture was implemented on Cadence Virtuoso, providing a valuable tool for high-speed multiplication in DSP applications.
+
+# Contibutors : Vallabh Bhat, Sakshi Devale, Aditya Ingale, Praful Naikar. 
